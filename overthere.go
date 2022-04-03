@@ -1,4 +1,4 @@
-package Pointerinit
+package overthere
 
 // returns str as *str
 func StrPointer(s string) *string { return &s }
