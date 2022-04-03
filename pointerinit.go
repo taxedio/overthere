@@ -89,4 +89,3 @@ func StructPointer(s struct{}) *struct{} { return &s }
 
 // return []struct as *[]struct
 func StructArrPointer(s struct{}) *struct{} { return &s }
-
