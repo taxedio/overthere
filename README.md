@@ -8,8 +8,8 @@
   <a href="https://taxed.io">taxed.io</a>
 </h3>
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/taxedio/overthere)](https://goreportcard.com/report/github.com/taxedio/overthere)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/taxedio/overthere/LICENCE)  
+[![Go Report Card](https://goreportcard.com/badge/gitlab.com/taxedio/overthere)](https://goreportcard.com/report/gitlab.com/taxedio/overthere)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/taxedio/overthere/LICENSE)  
 [![GitHub contributors](https://img.shields.io/github/contributors/taxedio/overthere)](https://github.com/taxedio/overthere/graphs/contributors)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/taxedio/overthere)
 
